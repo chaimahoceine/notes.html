@@ -1,1 +1,1 @@
-<mark>yaaaay</mark>
+<strong>yaaaay</strong>
