@@ -1,1 +1,1 @@
-<p style="color: red;">Make me red!</p>
+<p style="color: red;">make</p>
