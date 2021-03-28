@@ -1,1 +1,1 @@
-<p style="color:red;">make me red</p>
+<style>li"color:red;"make me red</style>
