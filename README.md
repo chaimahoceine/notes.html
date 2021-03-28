@@ -1,1 +1,1 @@
-<p style="color: red;">make</p>
+<p style="text-align: center;">This is a haiku</p>
