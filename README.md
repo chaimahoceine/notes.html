@@ -1,2 +1,2 @@
-<p"color: blue;">Hello world!</p>
+<style>"color:green;"bad</style>
 
