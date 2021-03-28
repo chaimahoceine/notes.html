@@ -1,2 +1,2 @@
-<style>"color:green;"bad</style>
+<style>li(color:green;)bad</style>
 
