@@ -5,6 +5,6 @@
   </head>
   <body>
     <img src="wonderful.png" alt="wonderful">
-    <p>Such a wonderful page.</p>
+    <p>Such a wonderful page.
   </body>
 </html>
