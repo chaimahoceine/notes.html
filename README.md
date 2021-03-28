@@ -1,1 +1,1 @@
-<p style="text-align: center;">This is a haiku</p>
+<p style="text-align: center;">This is</p>
