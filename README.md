@@ -1,9 +1,10 @@
 <style>
-fancybox { 
-border: 5px solid green;
-margen: 1em; 
-pading: 0,5;
-width: 100px;
-high: 50px; }
+  .blue_box {
+    border: 10px solid blue;
+    padding: 0.5em;
+    width: 150px;
+    height: 100px;
+  }
 </style>
-<div class="fancybox">this is a littele fancybox</div>
+
+<div class="blue_box">Hooray, a box!</div>
